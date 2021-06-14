@@ -1,0 +1,26 @@
+{
+  "name": "nestfall-site-generation",
+  "version": "1.0.0",
+  "description": "Generates the Nestfall website from static content",
+  "scripts": {
+    "generate-site": "cp -r ../assets/ out/ && node index.mjs",
+    "serve": "cd out && python -m http.server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdoleary/Nestfall.git"
+  },
+  "author": "Jordan O'Leary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdoleary/Nestfall/issues"
+  },
+  "homepage": "https://github.com/jdoleary/Nestfall#readme",
+  "dependencies": {
+    "dompurify": "^2.2.9",
+    "handlebars": "^4.7.7",
+    "jsdom": "^16.6.0",
+    "marked": "^2.0.7"
+  }
+}
