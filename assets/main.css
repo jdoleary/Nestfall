@@ -1,3 +1,24 @@
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
 article {
-    max-width:800px;
+    max-width:680px;
+    padding: 0 20px;
+    margin:0 auto;
+}
+#top-bar {
+    height: 60px;
+    line-height: 60px;
+    background-color:aquamarine;
+}
+#top-bar__content {
+    max-width:680px;
+    padding: 0 20px;
+    margin: 0 auto;
+    color: #4268ff;
+}
+h1 {
+    text-align: center;
+    font-size: 3em;
 }
