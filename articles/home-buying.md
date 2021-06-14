@@ -1,4 +1,7 @@
-# Home Buying
+# 🏠 Home Buying 💸
+
+## Congratulations!
+Buying a home is a big step and **sometimes** a wise one!  The following will give you some tips and information so hopefully you don't have to learn things the hard way!
 
 ## Don't be fooled
 Buying a home is a large investment.  Many houses for sale will have newly rennovated kitchens and bathrooms and sometimes shiney new appliances.  Don't be fooled, surface-level rennovations and new appliances are some of the least relevant things to consider when evaluating the value of your investment.  Most of the value of your home will be in the land, location, frame of the house, roof, foundation, water and electrical system, and square feet of the floor plan.  Shiney kitchens and bathrooms are nice-to-haves but they wont make the 100k, 200k, 300k price tag worth it.  Be sure to evaluate the house overall, and don't put too much weight in it's gilding.
